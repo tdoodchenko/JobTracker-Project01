@@ -1,0 +1,143 @@
+body {
+    background-image: url("../images/qbkls.png");
+}
+
+.container {
+    background-color: white;
+}
+
+header {
+    background-color: white;
+}
+
+#header-img {
+    margin-left: 55px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    float: right;
+    width: 300px;
+}
+.buffer {
+    background-color: #ffcd33;
+    opacity: .4;
+    height: 4px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+
+
+.active {
+    margin-right: 100px;
+}
+
+
+span.c-title:hover {
+    text-decoration: underline;
+    cursor: pointer;
+    color: #ffcd33;
+}
+
+
+.tab {
+    background-color: #666699;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    color: azure;
+    font-family: Arial, Helvetica, sans-serif;  
+    
+   
+    }
+
+.jobItem {
+    font-size:14px;
+}
+
+.jobItem:hover {
+    text-decoration: underline;
+    cursor: pointer;
+    color: #ffcd33;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+
+
+.my-2 {
+    color: #666699;
+    padding-bottom: 5px;
+    padding-top: 25px;
+    padding-left: 0;
+}
+
+.style {
+    border-radius: 15px;
+    margin-bottom: 40px;
+}
+
+#name-input {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#userNameDiv {
+    margin-top: 30px;
+}
+
+.page-footer {
+    background-color: #666699;
+}
+
+.container-fluid {
+    background-color: #666699;
+    
+}
+
+.text-uppercase {
+    color: white;
+}
+
+.p1 {
+    color: white;
+}
+
+a:link {
+    color: #ffcd33;
+}
+
+a:hover {
+    color: #666699;
+}
+
+.footer-copyright {
+    color: white;
+}
+
+.list-unstyled {
+    color: white;
+}
+
+#pager {
+    margin-left: 90px;
+}
+
+#next {
+    margin-left: 10px;
+    color: white;
+    background-color: #666699;
+}
+
+#previous {
+    color: white;
+    background-color: #666699;
+}
+
+.pageContainer, .container.style {
+    padding: 2px;
+}
+
+.table th, .table td {
+    padding-left: 16px;
+}
